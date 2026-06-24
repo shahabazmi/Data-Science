@@ -1,0 +1,33 @@
+# Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.Python
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large data / model files (keep the repo light)
+*.csv
+*.xlsx
+*.parquet
+*.h5
+*.pkl
+*.joblib
+data/
+datasets/
+!sample_*.csv
+
+# IDE
+.vscode/
+.idea/
