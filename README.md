@@ -8,7 +8,7 @@ Every step is committed to git so the progress is tracked from day one.
 
 | #  | Topic | Folder | Status |
 |----|-------|--------|--------|
-| 01 | Python Basics | [`01_python_basics/`](01_python_basics/) | �in progress |
+| 01 | Python Basics | [`01_python_basics/`](01_python_basics/) | ✅ done |
 | 02 | Python Intermediate | [`02_python_intermediate/`](02_python_intermediate/) | ⬜ planned |
 | 03 | NumPy | [`03_numpy/`](03_numpy/) | ⬜ planned |
 | 04 | Pandas | [`04_pandas/`](04_pandas/) | ⬜ planned |
