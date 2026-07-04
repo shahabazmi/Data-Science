@@ -9,7 +9,7 @@ Every step is committed to git so the progress is tracked from day one.
 | #  | Topic | Folder | Status |
 |----|-------|--------|--------|
 | 01 | Python Basics | [`01_python_basics/`](01_python_basics/) | ✅ done |
-| 02 | Python Intermediate | [`02_python_intermediate/`](02_python_intermediate/) | ⬜ planned |
+| 02 | Data Types in Python | [`02_Data_types_in_Python/`](02_Data_types_in_Python/) | ⬜ planned |
 | 03 | NumPy | [`03_numpy/`](03_numpy/) | ⬜ planned |
 | 04 | Pandas | [`04_pandas/`](04_pandas/) | ⬜ planned |
 | 05 | Data Visualization (Matplotlib, Seaborn) | [`05_data_visualization/`](05_data_visualization/) | ⬜ planned |
