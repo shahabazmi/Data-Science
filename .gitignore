@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Python virtual environment
+.venv/
+
+# Editor
+.vscode/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Screenshots / scratch
+Screenshot*.png
