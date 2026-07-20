@@ -12,3 +12,6 @@
 
 # Screenshots / scratch
 Screenshot*.png
+
+# Claude Code local memory
+CLAUDE.md
